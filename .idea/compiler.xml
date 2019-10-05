@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="ymall-api" />
+        <module name="ymall-common-util" />
+        <module name="ymall-service-util" />
+        <module name="ymall-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="xyymall-user" target="1.8" />
+      <module name="ymall-api" target="1.8" />
+      <module name="ymall-common-util" target="1.8" />
+      <module name="ymall-parent" target="1.8" />
+      <module name="ymall-service-util" target="1.8" />
+      <module name="ymall-user" target="1.8" />
+      <module name="ymall-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

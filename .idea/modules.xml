@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea1005.iml" filepath="$PROJECT_DIR$/idea1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-api/ymall-api.iml" filepath="$PROJECT_DIR$/ymall-api/ymall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-common-util/ymall-common-util.iml" filepath="$PROJECT_DIR$/ymall-common-util/ymall-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-parent/ymall-parent.iml" filepath="$PROJECT_DIR$/ymall-parent/ymall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-service-util/ymall-service-util.iml" filepath="$PROJECT_DIR$/ymall-service-util/ymall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-user/ymall-user.iml" filepath="$PROJECT_DIR$/ymall-user/ymall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymall-web-util/ymall-web-util.iml" filepath="$PROJECT_DIR$/ymall-web-util/ymall-web-util.iml" />
+    </modules>
+  </component>
+</project>
