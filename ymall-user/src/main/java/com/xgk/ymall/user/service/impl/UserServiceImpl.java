@@ -1,10 +1,11 @@
 package com.xgk.ymall.user.service.impl;
 
-import com.xgk.ymall.user.bean.UmsMember;
-import com.xgk.ymall.user.bean.UmsMemberReceiveAddress;
+import com.xgk.ymall.bean.UmsMember;
+import com.xgk.ymall.bean.UmsMemberReceiveAddress;
+import com.xgk.ymall.service.UserService;
+
 import com.xgk.ymall.user.mapper.ReceiveAddressMapper;
 import com.xgk.ymall.user.mapper.UserMapper;
-import com.xgk.ymall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;

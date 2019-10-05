@@ -1,4 +1,4 @@
-package com.xgk.ymall.user.bean;
+package com.xgk.ymall.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;

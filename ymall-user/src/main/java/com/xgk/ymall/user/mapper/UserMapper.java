@@ -1,6 +1,6 @@
 package com.xgk.ymall.user.mapper;
 
-import com.xgk.ymall.user.bean.UmsMember;
+import com.xgk.ymall.bean.UmsMember;
 import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;

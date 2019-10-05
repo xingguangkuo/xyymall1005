@@ -1,7 +1,9 @@
-package com.xgk.ymall.user.service;
+package com.xgk.ymall.service;
 
-import com.xgk.ymall.user.bean.UmsMember;
-import com.xgk.ymall.user.bean.UmsMemberReceiveAddress;
+
+
+import com.xgk.ymall.bean.UmsMember;
+import com.xgk.ymall.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 
